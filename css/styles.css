@@ -18,6 +18,10 @@ body.active {
 	border-radius: 50%;
   }
 
+  .certification {
+	border-radius: 0%;
+  }
+
 .no-js #experience-timeline>div {
 	background: #fff;
 	padding: 10px;
@@ -489,6 +493,14 @@ footer {
 }
 
 .education-block {
+	max-width: 700px;
+	margin: 0 auto 30px auto;
+	padding: 15px;
+	border: 1px solid #dcd9d9;
+	text-align: left
+}
+
+.edu-block {
 	max-width: 700px;
 	margin: 0 auto 30px auto;
 	padding: 15px;
