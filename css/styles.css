@@ -22,6 +22,10 @@ body.active {
 	border-radius: 0%;
   }
 
+  .certifications {
+	border-radius: 0%;
+  }
+
 .no-js #experience-timeline>div {
 	background: #fff;
 	padding: 10px;
